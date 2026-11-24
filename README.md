@@ -1,5 +1,11 @@
 # Space Pulse
 
+[![Live demo](https://img.shields.io/badge/demo-live-brightgreen.svg?logo=vercel)](https://space-pulse.vercel.app/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Next.js 16](https://img.shields.io/badge/Next.js-16-000000.svg?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
+![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4.svg?logo=tailwindcss&logoColor=white)
+
 A production-grade NASA activity dashboard that aggregates real-time data from multiple NASA APIs into a cinematic, responsive interface. Built with resilient architecture, server-side caching, and graceful degradation.
 
 **[Live Demo](https://space-pulse.vercel.app/)**
@@ -100,8 +106,8 @@ Browser
 
 ```bash
 # Clone
-git clone <repo-url>
-cd space-pulse
+git clone https://github.com/Saveanu-Robert/Space-Pulse.git
+cd Space-Pulse
 
 # Install
 npm install
@@ -201,4 +207,4 @@ npm run lint     # ESLint
 
 ## License
 
-MIT
+Released under the [MIT License](LICENSE).
